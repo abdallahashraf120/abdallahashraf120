@@ -32,7 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 
 
-<table style="text-align:center;">
+<table>
   <tr>
    <img src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
