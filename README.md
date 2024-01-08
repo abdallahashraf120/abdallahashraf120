@@ -1,5 +1,5 @@
 <!--👋HELLO EVERYBODY / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<h1>I'm Abdallah Ashraf</h1>
+<h1 align="center">I'm Abdallah Ashraf</h1>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2379A500&size=40&duration=3000&center=true&lines=Hello+Everybody">
 <!--🖼️RICK-->
